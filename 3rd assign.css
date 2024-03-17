@@ -1,0 +1,86 @@
+.body{
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 70px;
+}
+
+#body-header{
+    height: 80vh;
+    opacity: 0.8;
+    background-color: aquamarine;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 1rem;
+}
+
+#heading h1{
+    text-align: center;
+}
+#heading h1{
+    color: brown;
+}
+
+.pdiv h3 h4{
+    width: 30px;
+    height: 0px;
+    
+}
+.pdiv h3{
+    color: rgb(200, 14, 51);
+}
+#pdiv2 h3{
+    color: rgb(200, 14, 51);
+}
+
+#pdiv2 h3 h4 p{
+    text-align: right;
+    
+}
+.hdiv{
+   display:table;
+   font-display:fallback ;
+
+}
+.hdiv2{
+    text-align: right;
+}
+.hdiv2 h3{
+   color: brown;
+}
+.pdiv{
+font-display: 20px;
+text-align: left;
+flex-direction: inherit;
+
+}
+#pdiv2{
+    font-size:20px ;
+    text-align: right;
+    flex-direction: inherit;
+}
+#my-image{
+    height: 12rem;
+    width: 12rem;
+    margin: auto;
+    margin-top: -17vh;
+}
+#about-para{
+    padding: 10px;
+    width: 70%;
+    font-size: 1.3rem;
+    text-align: justify;
+    line-height: 28px;
+    margin: auto;
+}
+#hdiv2{
+    margin-top: 40%;
+    width: 25%;
+}
+.vertical{
+    border-left: 5px solid black;
+    height:500px;
+    position: absolute;
+    left: 50%;
+    width: 0px;
+}
